@@ -46,6 +46,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnularFacturacs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnularFacturacs.Designer.cs">
+      <DependentUpon>AnularFacturacs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarFactura.Designer.cs">
+      <DependentUpon>BuscarFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoFacturaIndividual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoFacturaIndividual.Designer.cs">
+      <DependentUpon>IngresoFacturaIndividual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoFacturaMasiva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoFacturaMasiva.Designer.cs">
+      <DependentUpon>IngresoFacturaMasiva.cs</DependentUpon>
+    </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
