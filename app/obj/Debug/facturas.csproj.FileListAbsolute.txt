@@ -1,0 +1,10 @@
+C:\Users\patri\OneDrive - Aiep\AIEP\2do año\3 semestre\TPC301-2100-2020-TALLER DE PROGRAMACIÓN NET\PROYECTOS\facturas\bin\Debug\facturas.exe.config
+C:\Users\patri\OneDrive - Aiep\AIEP\2do año\3 semestre\TPC301-2100-2020-TALLER DE PROGRAMACIÓN NET\PROYECTOS\facturas\bin\Debug\facturas.exe
+C:\Users\patri\OneDrive - Aiep\AIEP\2do año\3 semestre\TPC301-2100-2020-TALLER DE PROGRAMACIÓN NET\PROYECTOS\facturas\bin\Debug\facturas.pdb
+C:\Users\patri\OneDrive - Aiep\AIEP\2do año\3 semestre\TPC301-2100-2020-TALLER DE PROGRAMACIÓN NET\PROYECTOS\facturas\obj\Debug\facturas.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive - Aiep\AIEP\2do año\3 semestre\TPC301-2100-2020-TALLER DE PROGRAMACIÓN NET\PROYECTOS\facturas\obj\Debug\facturas.IngresarFactura.resources
+C:\Users\patri\OneDrive - Aiep\AIEP\2do año\3 semestre\TPC301-2100-2020-TALLER DE PROGRAMACIÓN NET\PROYECTOS\facturas\obj\Debug\facturas.Properties.Resources.resources
+C:\Users\patri\OneDrive - Aiep\AIEP\2do año\3 semestre\TPC301-2100-2020-TALLER DE PROGRAMACIÓN NET\PROYECTOS\facturas\obj\Debug\facturas.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive - Aiep\AIEP\2do año\3 semestre\TPC301-2100-2020-TALLER DE PROGRAMACIÓN NET\PROYECTOS\facturas\obj\Debug\facturas.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive - Aiep\AIEP\2do año\3 semestre\TPC301-2100-2020-TALLER DE PROGRAMACIÓN NET\PROYECTOS\facturas\obj\Debug\facturas.exe
+C:\Users\patri\OneDrive - Aiep\AIEP\2do año\3 semestre\TPC301-2100-2020-TALLER DE PROGRAMACIÓN NET\PROYECTOS\facturas\obj\Debug\facturas.pdb
